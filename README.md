@@ -6,8 +6,9 @@ This repository contains information related to the tool RSA-MBT presented at th
  * There is no link to the original video of the tool.
  
 In this repository, for Evolve you will find:
- * :white_check_mark: Source code (not available)
- * :white_check_mark: The original tool (not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
  
 This repository was constructed by [Vrushti Shah](https://github.com/vrushti1991) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).  
  
